@@ -50,6 +50,8 @@ This is a document for the github tutorial.
 
 TODO Introduction
 
+Test pull request during the tutorial session.
+
 
 # Conventions and Definitions
 
