@@ -50,8 +50,7 @@ This is a document for the github tutorial.
 
 TODO Introduction
 
-TEST PL
-Test two
+TEST PL - Test two
 
 # Conventions and Definitions
 
