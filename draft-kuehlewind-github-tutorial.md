@@ -19,17 +19,17 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Github Tutorial"
+abbrev: "GH"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-kuehlewind-github-tutorial-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
+area: GEN
 workgroup: WG Working Group
 keyword:
  - next generation
@@ -45,9 +45,13 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Mirja Kühlewind
+    organization: Ericsson
+    email: ietf@kuehlewind.net
+ -
+    fullname: Kevin Kellay
+    organization: Anthropic
+    email: Kelleyk@kelleyk.net
 
 normative:
 
