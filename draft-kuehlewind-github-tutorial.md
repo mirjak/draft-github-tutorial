@@ -48,7 +48,7 @@ This is a document for the github tutorial.
 
 # Introduction
 
-TODO Motivation
+TODO Intro
 
 TEST PL - Test two
 
