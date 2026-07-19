@@ -41,7 +41,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This is a document for the github tutorial.
 
 
 --- middle
