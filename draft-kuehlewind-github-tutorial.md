@@ -48,7 +48,7 @@ This is a document for the github tutorial.
 
 # Introduction
 
-TODO Introduction
+The introduction can be co-edited by other users who want to contribute a PR to this draft
 
 
 # Conventions and Definitions
