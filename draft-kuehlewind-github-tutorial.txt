@@ -74,6 +74,8 @@ Table of Contents
 
    TODO Motivation
 
+   Test pull request during the tutorial session.
+
    TEST PL - Test two
 
    unicorn
