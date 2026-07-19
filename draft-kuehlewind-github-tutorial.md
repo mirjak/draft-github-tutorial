@@ -48,7 +48,7 @@ This is a document for the github tutorial.
 
 # Introduction
 
-TODO Introduction
+This is the introduction.
 
 
 # Conventions and Definitions
