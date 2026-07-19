@@ -58,6 +58,28 @@ TEST PL - Test two
 
 unicorn
 
+~~~aasvg
++--------------------------------------------------------+
+|                       tutorial                         |
++----------------------------------------------+---------+
+       ^                                       |
+       |                                    info
+    feedback                                   |
+       |                                       V
++------+-----+                         +--------------+
+|  reviewer  |                         |    editor    |
++------------+                         +-------+------+
+       ^                                       |
+       |                                       |
+ review request                              draft
+       |                                       |
+       |                                       v
++------+-------------------------------------------------+
+|                        community                       |
++--------------------------------------------------------+
+~~~
+{: #fig-sender-view title="Editing “workflow}
+
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
