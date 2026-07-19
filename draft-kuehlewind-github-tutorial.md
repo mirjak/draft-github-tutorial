@@ -51,7 +51,7 @@ This is a document for the github tutorial.
 TODO Motivation
 
 
-Test pull request during the tutorial session. 
+Test pull request during the tutorial session.
 
 
 TEST PL - Test two
