@@ -14,6 +14,7 @@ v: 3
 keyword:
  - next generation
  - unicorn
+ - pegasus
  - AI-native
 venue:
 #  group: WG
