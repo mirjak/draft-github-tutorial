@@ -1,0 +1,510 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T03:28:28.337319+00:00",
+  "repo": "mirjak/draft-github-tutorial",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    },
+    {
+      "name": "design",
+      "description": "",
+      "color": "60d4dc"
+    }
+  ],
+  "issues": [
+    {
+      "number": 6,
+      "id": "I_kwDOTdKFZM8AAAABJWe_Rw",
+      "title": "This needs content",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/6",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "mirjak"
+      ],
+      "labels": [
+        "design"
+      ],
+      "body": "Someone has to put some real content.",
+      "createdAt": "2026-07-19T11:43:38Z",
+      "updatedAt": "2026-07-19T11:46:20Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "Who wants to do it?",
+          "createdAt": "2026-07-19T11:44:03Z",
+          "updatedAt": "2026-07-19T11:44:03Z"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "id": "I_kwDOTdKFZM8AAAABJWfHzw",
+      "title": "Not enough memes",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/8",
+      "state": "OPEN",
+      "author": "kelleyk-ant",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:44:22Z",
+      "updatedAt": "2026-07-19T11:44:22Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 9,
+      "id": "I_kwDOTdKFZM8AAAABJWfMOw",
+      "title": "Lacks an unicorn",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/9",
+      "state": "CLOSED",
+      "author": "carlosm3011",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Not enough unicorns.",
+      "createdAt": "2026-07-19T11:44:46Z",
+      "updatedAt": "2026-07-19T11:48:02Z",
+      "closedAt": "2026-07-19T11:48:02Z",
+      "comments": []
+    },
+    {
+      "number": 10,
+      "id": "I_kwDOTdKFZM8AAAABJWfZ1w",
+      "title": "More AI content",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/10",
+      "state": "OPEN",
+      "author": "starrant-rpc",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "More AI unicorns",
+      "createdAt": "2026-07-19T11:45:57Z",
+      "updatedAt": "2026-07-19T11:45:57Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKFZM7zhlqk",
+      "title": "Update abstract section of GitHub tutorial",
+      "url": "https://github.com/mirjak/draft-github-tutorial/pull/1",
+      "state": "MERGED",
+      "author": "mirjak",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:30:24Z",
+      "updatedAt": "2026-07-19T11:31:52Z",
+      "baseRepository": "mirjak/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "efbcf2dea82776e6b8aa0d4a28d5a1682df09dd8",
+      "headRepository": "mirjak/draft-github-tutorial",
+      "headRefName": "mirjak-patch-1",
+      "headRefOid": "4d476eac85c7dc0de22454481a9900792f605743",
+      "closedAt": "2026-07-19T11:31:51Z",
+      "mergedAt": "2026-07-19T11:31:51Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "35e46881ff442cae71b83f451704f4ff132b3f59"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOTdKFZM7zhnjh",
+      "title": "Update introduction section in tutorial",
+      "url": "https://github.com/mirjak/draft-github-tutorial/pull/2",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:33:38Z",
+      "updatedAt": "2026-07-19T11:51:10Z",
+      "baseRepository": "mirjak/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "35c4c81b214cdc304db32a7e84e059d66f919366",
+      "headRepository": "mirjak/draft-github-tutorial",
+      "headRefName": "mirjak-patch-2",
+      "headRefOid": "feced0e1b05528e3b11752624016ed04eeb4ae07",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 3,
+      "id": "PR_kwDOTdKFZM7zhoq4",
+      "title": "Add placeholder for introduction section",
+      "url": "https://github.com/mirjak/draft-github-tutorial/pull/3",
+      "state": "MERGED",
+      "author": "ggx",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:35:39Z",
+      "updatedAt": "2026-07-19T11:43:04Z",
+      "baseRepository": "mirjak/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "35e46881ff442cae71b83f451704f4ff132b3f59",
+      "headRepository": "ggx/draft-github-tutorial",
+      "headRefName": "patch-1",
+      "headRefOid": "062d861a1f994902882e15fe73a15323d7210ad8",
+      "closedAt": "2026-07-19T11:43:04Z",
+      "mergedAt": "2026-07-19T11:43:04Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "2a0cdd3aaa7c44a8d6c4483f6142909a2421d447"
+      },
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "Thanks, that's great!",
+          "createdAt": "2026-07-19T11:42:52Z",
+          "updatedAt": "2026-07-19T11:42:52Z"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "PRR_kwDOTdKFZM8AAAABGfh1Vw",
+          "commit": {
+            "abbreviatedOid": "64e98f4"
+          },
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-19T11:41:32Z",
+          "updatedAt": "2026-07-19T11:41:32Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "```suggestion\nTest two\n```",
+              "createdAt": "2026-07-19T11:41:32Z",
+              "updatedAt": "2026-07-19T11:41:32Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOTdKFZM8AAAABGfh5nw",
+          "commit": {
+            "abbreviatedOid": "99011e7"
+          },
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-19T11:42:26Z",
+          "updatedAt": "2026-07-19T11:42:26Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "```suggestion\nTEST PL - Test two\n```",
+              "createdAt": "2026-07-19T11:42:26Z",
+              "updatedAt": "2026-07-19T11:42:26Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "PR_kwDOTdKFZM7zhqYz",
+      "title": "Add 'pegasus' keyword to tutorial",
+      "url": "https://github.com/mirjak/draft-github-tutorial/pull/4",
+      "state": "OPEN",
+      "author": "starrant-rpc",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Why not pegasuses too?",
+      "createdAt": "2026-07-19T11:38:32Z",
+      "updatedAt": "2026-07-19T11:51:55Z",
+      "baseRepository": "mirjak/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "35e46881ff442cae71b83f451704f4ff132b3f59",
+      "headRepository": "starrant-rpc/draft-github-tutorial",
+      "headRefName": "patch-1",
+      "headRefOid": "ea980d807e4f56937d03d5024506668b1361ade1",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOTdKFZM8AAAABGfhwlw",
+          "commit": {
+            "abbreviatedOid": "ea980d8"
+          },
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-19T11:40:33Z",
+          "updatedAt": "2026-07-19T11:40:33Z",
+          "comments": [
+            {
+              "originalPosition": 4,
+              "body": "I don't like this. Please propose something else!",
+              "createdAt": "2026-07-19T11:40:33Z",
+              "updatedAt": "2026-07-19T11:40:33Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOTdKFZM8AAAABGfh18w",
+          "commit": {
+            "abbreviatedOid": "ea980d8"
+          },
+          "author": "starrant-rpc",
+          "authorAssociation": "NONE",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-19T11:41:38Z",
+          "updatedAt": "2026-07-19T11:41:38Z",
+          "comments": [
+            {
+              "originalPosition": 4,
+              "body": "What about \"secratariat\" -- the race horse? He wasn't a unicorn OR a pegasus...",
+              "createdAt": "2026-07-19T11:41:38Z",
+              "updatedAt": "2026-07-19T11:41:38Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOTdKFZM8AAAABGfio6Q",
+          "commit": {
+            "abbreviatedOid": "ea980d8"
+          },
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-19T11:51:54Z",
+          "updatedAt": "2026-07-19T11:51:55Z",
+          "comments": [
+            {
+              "originalPosition": 4,
+              "body": "```suggestion\n - secratariat\n```",
+              "createdAt": "2026-07-19T11:51:55Z",
+              "updatedAt": "2026-07-19T11:51:55Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "PR_kwDOTdKFZM7zhqas",
+      "title": "Update draft-kuehlewind-github-tutorial.md",
+      "url": "https://github.com/mirjak/draft-github-tutorial/pull/5",
+      "state": "CLOSED",
+      "author": "kevinmcm-github",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Updated the Introduction section",
+      "createdAt": "2026-07-19T11:38:35Z",
+      "updatedAt": "2026-07-19T12:52:46Z",
+      "baseRepository": "mirjak/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "35e46881ff442cae71b83f451704f4ff132b3f59",
+      "headRepository": null,
+      "headRefName": "patch-1",
+      "headRefOid": "fa457c836f5a06299420531456af1e8aadd6e503",
+      "closedAt": "2026-07-19T12:52:46Z",
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 7,
+      "id": "PR_kwDOTdKFZM7zhtb-",
+      "title": "Add note about testing pull requests",
+      "url": "https://github.com/mirjak/draft-github-tutorial/pull/7",
+      "state": "MERGED",
+      "author": "luismcontreras",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Added a note about testing pull requests during the tutorial session.",
+      "createdAt": "2026-07-19T11:43:55Z",
+      "updatedAt": "2026-07-19T11:53:10Z",
+      "baseRepository": "mirjak/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "35c4c81b214cdc304db32a7e84e059d66f919366",
+      "headRepository": "luismcontreras/draft-github-tutorial",
+      "headRefName": "luismcontreras-patch-1",
+      "headRefOid": "155ef018ecafe560b18b3186f79f66844c79307a",
+      "closedAt": "2026-07-19T11:53:10Z",
+      "mergedAt": "2026-07-19T11:53:10Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "80476dc5437b58102d165e5c98f02090339a43de"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOTdKFZM8AAAABGfisNg",
+          "commit": {
+            "abbreviatedOid": "d803e52"
+          },
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-19T11:52:35Z",
+          "updatedAt": "2026-07-19T11:52:35Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "```suggestion\nTest pull request during the tutorial session. \n```",
+              "createdAt": "2026-07-19T11:52:35Z",
+              "updatedAt": "2026-07-19T11:52:35Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "id": "PR_kwDOTdKFZM7zhva5",
+      "title": "Add placeholder text and unicorn symbol",
+      "url": "https://github.com/mirjak/draft-github-tutorial/pull/11",
+      "state": "MERGED",
+      "author": "mirjak",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "fixes #9 ",
+      "createdAt": "2026-07-19T11:47:26Z",
+      "updatedAt": "2026-07-19T11:48:02Z",
+      "baseRepository": "mirjak/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "2a0cdd3aaa7c44a8d6c4483f6142909a2421d447",
+      "headRepository": "mirjak/draft-github-tutorial",
+      "headRefName": "mirjak-patch-3",
+      "headRefOid": "b701c241ec41cc09db0cb380290ae8da70374164",
+      "closedAt": "2026-07-19T11:48:01Z",
+      "mergedAt": "2026-07-19T11:48:01Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "49b12ffd6500c834f2390f1267118fc912976938"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 12,
+      "id": "PR_kwDOTdKFZM7zhwun",
+      "title": "Update introduction section and add test note",
+      "url": "https://github.com/mirjak/draft-github-tutorial/pull/12",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:49:46Z",
+      "updatedAt": "2026-07-19T11:49:46Z",
+      "baseRepository": "mirjak/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "35c4c81b214cdc304db32a7e84e059d66f919366",
+      "headRepository": "mirjak/draft-github-tutorial",
+      "headRefName": "mirjak-patch-4",
+      "headRefOid": "58e86d57a75b0a571549c9c68cd5ce53ceead09d",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 13,
+      "id": "PR_kwDOTdKFZM7zh3jX",
+      "title": "Add editing workflow diagram to tutorial",
+      "url": "https://github.com/mirjak/draft-github-tutorial/pull/13",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Added a diagram illustrating the editing workflow and community feedback process.",
+      "createdAt": "2026-07-19T12:01:31Z",
+      "updatedAt": "2026-07-19T12:01:31Z",
+      "baseRepository": "mirjak/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "b94ad8c63ef75f133e571632c3533e5c4574701d",
+      "headRepository": "mirjak/draft-github-tutorial",
+      "headRefName": "mirjak-patch-5",
+      "headRefOid": "57f1bb59d9876c5d46b949a2cfbf82ab36c7bdca",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
