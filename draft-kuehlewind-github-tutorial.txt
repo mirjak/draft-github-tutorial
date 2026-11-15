@@ -84,7 +84,7 @@ Table of Contents
 
 3.  Security Considerations
 
-   TODO Security
+   Security is very important to consider.
 
 4.  IANA Considerations
 
