@@ -103,7 +103,7 @@ Table of Contents
 
 Acknowledgments
 
-   Jim did almost all the work!
+   James Galvin did almost all the work!
 
 Authors' Addresses
 
