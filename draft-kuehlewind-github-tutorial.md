@@ -39,7 +39,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This is a draft that we use for the GitHub Hands-On tutorial. Just to show how it works.
 
 
 --- middle
