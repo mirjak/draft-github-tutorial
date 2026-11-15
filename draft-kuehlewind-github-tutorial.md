@@ -39,7 +39,7 @@ informative:
 
 --- abstract
 
-This is a draft that we use for the GitHub Hands-On tutorial. Just to show how it works.
+This is a draft that we use for the GitHub Hands-On tutorial. Just to show how it works. 
 
 
 --- middle
