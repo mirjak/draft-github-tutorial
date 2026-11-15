@@ -56,7 +56,7 @@ TODO Introduction
 
 # Security Considerations {#security}
 
-TODO Security
+Security is very important to consider.
 
 
 # IANA Considerations {#iana}
