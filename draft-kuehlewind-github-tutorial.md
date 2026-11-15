@@ -69,4 +69,4 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-Jim did almost all the work!
+James Galvin did almost all the work!
