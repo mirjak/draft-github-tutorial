@@ -1,0 +1,340 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-11-17T06:26:13.398147+00:00",
+  "repo": "mirjak/draft-github-tutorial",
+  "labels": [
+    {
+      "name": "accessibility",
+      "description": "Barrier affecting people with disabilities",
+      "color": "b588fe"
+    },
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    },
+    {
+      "name": "Needed for IETF-127",
+      "description": "",
+      "color": "cf4c4e"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOVvsTU88AAAABfhr30g",
+      "title": "Acknowledgements",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/1",
+      "state": "CLOSED",
+      "author": "galvin-ietf",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [
+        "help wanted",
+        "wontfix"
+      ],
+      "body": "Please add me to the Acknowledgements section.",
+      "createdAt": "2026-11-15T22:58:27Z",
+      "updatedAt": "2026-11-15T23:16:25Z",
+      "closedAt": "2026-11-15T23:16:25Z",
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "Why? @galvin-ietf ",
+          "createdAt": "2026-11-15T23:00:33Z",
+          "updatedAt": "2026-11-15T23:00:33Z"
+        },
+        {
+          "author": "galvin-ietf",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "I have not contributed to the \u201cno content\u201d so I should be listed.",
+          "createdAt": "2026-11-15T23:03:17Z",
+          "updatedAt": "2026-11-15T23:03:17Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "this has been addressed #6",
+          "createdAt": "2026-11-15T23:16:25Z",
+          "updatedAt": "2026-11-15T23:16:25Z"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "I_kwDOVvsTU88AAAABfhsfTw",
+      "title": "Draft does not have content",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/2",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [
+        "help wanted"
+      ],
+      "body": "There is no content in the draft. Should someone add some?",
+      "createdAt": "2026-11-15T22:59:33Z",
+      "updatedAt": "2026-11-15T23:01:07Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 3,
+      "id": "I_kwDOVvsTU88AAAABfhsu4w",
+      "title": "Problems with the terminilogy.",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/3",
+      "state": "OPEN",
+      "author": "JFQueralt",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "# Problem\nThe draft does not include a proper list of terms to know.\n\n\n# Proposed solution\nGenerate a list of all terms referred to in the draft.",
+      "createdAt": "2026-11-15T22:59:57Z",
+      "updatedAt": "2026-11-15T22:59:57Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 4,
+      "id": "I_kwDOVvsTU88AAAABfhtkuQ",
+      "title": "How to get the updated formatted",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/4",
+      "state": "OPEN",
+      "author": "wstaub",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Say more on what the author has to do to get the updated markdown formatted",
+      "createdAt": "2026-11-15T23:01:22Z",
+      "updatedAt": "2026-11-15T23:01:22Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 5,
+      "id": "I_kwDOVvsTU88AAAABfhuOZw",
+      "title": "Security Section need update",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/5",
+      "state": "CLOSED",
+      "author": "Roland-Schott",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Security chapter has no content",
+      "createdAt": "2026-11-15T23:02:27Z",
+      "updatedAt": "2026-11-15T23:25:53Z",
+      "closedAt": "2026-11-15T23:25:53Z",
+      "comments": []
+    },
+    {
+      "number": 7,
+      "id": "I_kwDOVvsTU88AAAABfhzkkA",
+      "title": "specify an explicit version",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/7",
+      "state": "OPEN",
+      "author": "markblunk",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "is this version `01`?",
+      "createdAt": "2026-11-15T23:10:59Z",
+      "updatedAt": "2026-11-15T23:10:59Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 8,
+      "id": "I_kwDOVvsTU88AAAABfh0zBQ",
+      "title": "Introduction is still missing",
+      "url": "https://github.com/mirjak/draft-github-tutorial/issues/8",
+      "state": "OPEN",
+      "author": "jie-dong",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-11-15T23:13:00Z",
+      "updatedAt": "2026-11-15T23:13:00Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 6,
+      "id": "PR_kwDOVvsTU88AAAABPZWlFQ",
+      "title": "add Jim to ack section",
+      "url": "https://github.com/mirjak/draft-github-tutorial/pull/6",
+      "state": "MERGED",
+      "author": "mirjak",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-11-15T23:04:52Z",
+      "updatedAt": "2026-11-15T23:14:15Z",
+      "baseRepository": "mirjak/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "66ed3d40aad8f75e3c3d1437c58869d550e8f499",
+      "headRepository": "mirjak/draft-github-tutorial",
+      "headRefName": "mirjak-patch-1",
+      "headRefOid": "babcc3656064998d3e2de0c19b81ff4c54a548f9",
+      "closedAt": "2026-11-15T23:14:14Z",
+      "mergedAt": "2026-11-15T23:14:14Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "7a0b372aa077ae2e403e8c5a836fd7fb7fbcef54"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOVvsTU88AAAABYHdMjg",
+          "commit": {
+            "abbreviatedOid": "4b1c73f"
+          },
+          "author": "LPardue",
+          "authorAssociation": "COLLABORATOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-11-15T23:05:36Z",
+          "updatedAt": "2026-11-15T23:05:37Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "nit\n\n```suggestion\nJim did almost all the work!\n```",
+              "createdAt": "2026-11-15T23:05:36Z",
+              "updatedAt": "2026-11-15T23:05:37Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOVvsTU88AAAABYHdcvg",
+          "commit": {
+            "abbreviatedOid": "4b1c73f"
+          },
+          "author": "galvin-ietf",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "CHANGES_REQUESTED",
+          "body": "Looks good.  Please update my name to be James Galvin.",
+          "createdAt": "2026-11-15T23:06:37Z",
+          "updatedAt": "2026-11-15T23:06:37Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOVvsTU88AAAABYHd6cQ",
+          "commit": {
+            "abbreviatedOid": "ec4829a"
+          },
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-11-15T23:08:28Z",
+          "updatedAt": "2026-11-15T23:08:28Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "We should add the full name here: James Galvin",
+              "createdAt": "2026-11-15T23:08:28Z",
+              "updatedAt": "2026-11-15T23:08:28Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOVvsTU88AAAABYHeGNA",
+          "commit": {
+            "abbreviatedOid": "ec4829a"
+          },
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-11-15T23:09:09Z",
+          "updatedAt": "2026-11-15T23:09:10Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "```suggestion\nJames G. did almost all the work!\n```",
+              "createdAt": "2026-11-15T23:09:09Z",
+              "updatedAt": "2026-11-15T23:09:10Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOVvsTU88AAAABYHeUKg",
+          "commit": {
+            "abbreviatedOid": "ec4829a"
+          },
+          "author": "galvin-ietf",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-11-15T23:10:03Z",
+          "updatedAt": "2026-11-15T23:10:04Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "```suggestion\r\nJames Galvin did almost all the work!\r\n```",
+              "createdAt": "2026-11-15T23:10:04Z",
+              "updatedAt": "2026-11-15T23:10:04Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOVvsTU88AAAABYHfSYw",
+          "commit": {
+            "abbreviatedOid": "babcc36"
+          },
+          "author": "LPardue",
+          "authorAssociation": "COLLABORATOR",
+          "state": "APPROVED",
+          "body": "LGTM!",
+          "createdAt": "2026-11-15T23:14:06Z",
+          "updatedAt": "2026-11-15T23:14:06Z",
+          "comments": []
+        }
+      ]
+    }
+  ]
+}
